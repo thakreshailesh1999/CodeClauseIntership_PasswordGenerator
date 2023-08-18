@@ -1,2 +1,2 @@
 # PasswordGenerator
-Password generator project 
+Password generator project using java , servlet and html , css this project generate unique password
